@@ -1,0 +1,1 @@
+This repository contains a simple example of a common SQL syntax error caused by a misspelling in a column name.  The `bug.sql` file demonstrates the incorrect query, resulting in an error.  The `bugSolution.sql` file provides the corrected version of the query.
